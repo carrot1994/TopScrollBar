@@ -6,6 +6,9 @@ TopScrollBar 导航栏下方的标签分页控件，可滑动、点击切换页�
 <p><p>
 
 ## Usage
+gif:
+
+![img](https://github.com/carrot1994/TopScrollBar/blob/master/topScrollBar.gif) 
 
 使用标签分页控件，在`ViewController`import`TopScrollBar.h`,按照以下方法使用
 method:
